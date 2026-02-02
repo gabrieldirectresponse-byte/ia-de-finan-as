@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FinAI - 9,9 Oficial",
+  "description": "Uma plataforma de gestão financeira revolucionária baseada em IA conversacional. Controle seus gastos falando, digitando ou enviando fotos de recibos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
